@@ -1,4 +1,0 @@
-pandas==2.2.3
-pickle5==0.0.12
-scikit_learn==1.6.1
-plotly
